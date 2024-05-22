@@ -1,0 +1,8 @@
+metas:
+  .:
+    labels:
+      doc: hardware
+
+  file2.yaml:
+    labels:
+      doc: spec

@@ -1,0 +1,10 @@
+metas:
+  铭家.pdf:
+    labels:
+      oem: mingjia
+      doc: protocol,requirement
+      protocol: binary
+
+  file.yaml:
+    labels:
+      doc: spec

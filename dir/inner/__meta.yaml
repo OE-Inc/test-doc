@@ -1,0 +1,8 @@
+metas:
+  .:
+    labels:
+      scope: inner
+
+  file3.yaml:
+    labels:
+      doc: spec
