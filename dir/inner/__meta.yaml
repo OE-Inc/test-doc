@@ -1,8 +1,14 @@
+opt:
+  preview: 'hidden|public|all'
+
 metas:
   .:
     labels:
       scope: inner
+      hilight: '20240519T18:19:00'
 
   file3.yaml:
+    template: 'hardware'
     labels:
       doc: spec
+

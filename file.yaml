@@ -1,1 +1,8 @@
+---
+metas:
+  labels:
+    oem: mingjia
+    doc: protocol,requirement
+    protocol: binary
+---
 test: yes!
