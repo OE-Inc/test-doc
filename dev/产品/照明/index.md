@@ -10,17 +10,25 @@ spec
 
 ## 硬件开发
 
+| 字段          | 长度  | 说明                          |
+| ----------- | --- | --------------------------- |
+| ParamCmdId  | 1   | 0x04                        |
+|             |     |                             |
+| Bitmap      | 2   | 需要控制的参数 bitmap              |
+| ControlArgs | N   | 具体的 bit 对应的控制参数，见“控制类参数”章节。 |
+|             |     |                             |
+
 ### 量产
 
 描述
 
-![下载](hw.zip)
+![下载](hardware/std)
 
 ### 量产 AC
 
 描述
 
-![下载](hw-ac.zip)
+![下载](hardware/ac)
 
 ![图片](https://tse4-mm.cn.bing.net/th/id/OIP-C.PKRDe5ZyY88xkRoEV1HGjwHaNK?rs=1&pid=ImgDetMain)
 
